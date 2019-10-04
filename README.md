@@ -1,6 +1,11 @@
 # Signature using LWC
  Capture Signature using HTML Canvas inside Salesforce Lightning Web Components - Salesforce Files
  
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 # Features 
  - Captures Signature using HTML5 Canvas
  - Lightweight
