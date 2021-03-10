@@ -14,6 +14,9 @@
  - Can use this component on any Object Record.
  - Toast Message on Success/Error
  
+# Live Demo
+Live Demo on the Scratch Org: https://hosted-scratch.herokuapp.com//launch?template=https://github.com/mhamzas/Add-to-Calendar-Button---LWC.git
+
 # Preview
 
 <img src="https://www.mhamzas.com/wp-content/uploads/2019/10/image-1.png" width="50%">
