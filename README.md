@@ -15,7 +15,7 @@
  - Toast Message on Success/Error
  
 # Live Demo
-Live Demo on the Scratch Org: https://hosted-scratch.herokuapp.com//launch?template=https://github.com/mhamzas/Add-to-Calendar-Button---LWC.git
+Live Demo on the Scratch Org: https://hosted-scratch.herokuapp.com//launch?template=https://github.com/mhamzas/Signature-using-LWC
 
 # Preview
 
